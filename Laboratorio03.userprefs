@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{376C1F82-D977-401C-8386-37A8C33D73E1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Laboratorio03/View/TabbedPageView.xaml">
+    <Files>
+      <File FileName="Laboratorio03/View/TabbedPageView.xaml" Line="33" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Laboratorio03.Droid PreferredExecutionTarget="Android.Android_ARMv7a_Nougat" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Laboratorio03.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5F766AD5-9930-4F8D-8745-C0B7E99509A5">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Laboratorio03.iOS>
+</Properties>
